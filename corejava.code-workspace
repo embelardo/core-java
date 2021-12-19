@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../ref/corejava"
+		},
+		{
+			"path": "../../ref/javasrc/11.0.13.fx-zulu"
+		}
+	],
+	"settings": {}
+}
